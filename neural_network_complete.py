@@ -1,9 +1,3 @@
-"""
-Simple 2-layer Neural Network (from scratch) on make_moons dataset.
-- Pure .py script (no Jupyter magics)
-- Logistic Regression part removed
-- Trains NN and plots decision boundaries for different hidden sizes
-"""
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -192,4 +186,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
